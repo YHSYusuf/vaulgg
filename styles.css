@@ -709,7 +709,7 @@ nav{
 }
 
 html::-webkit-scrollbar {
-  width: 1.4rem;
+  width: 10px;
   border-radius: 16px;
 }
 
@@ -719,6 +719,6 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #007bff;
+  background: #000b6b;
   border-radius: 16px !important;
 }
